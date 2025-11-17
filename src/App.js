@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import PhotoList from './components/PhotoList.js';
 import PhotoDetail from './components/PhotoDetail.js';
 
