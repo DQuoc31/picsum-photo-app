@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DQuoc31/picsum-photo-app/static/css/main.85042e1d.css",
-    "main.js": "/DQuoc31/picsum-photo-app/static/js/main.8132334e.js",
+    "main.js": "/DQuoc31/picsum-photo-app/static/js/main.17a40418.js",
     "index.html": "/DQuoc31/picsum-photo-app/index.html",
     "main.85042e1d.css.map": "/DQuoc31/picsum-photo-app/static/css/main.85042e1d.css.map",
-    "main.8132334e.js.map": "/DQuoc31/picsum-photo-app/static/js/main.8132334e.js.map"
+    "main.17a40418.js.map": "/DQuoc31/picsum-photo-app/static/js/main.17a40418.js.map"
   },
   "entrypoints": [
     "static/css/main.85042e1d.css",
-    "static/js/main.8132334e.js"
+    "static/js/main.17a40418.js"
   ]
 }
