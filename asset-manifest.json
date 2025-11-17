@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DQuoc31/picsum-photo-app/static/css/main.85042e1d.css",
+    "main.js": "/DQuoc31/picsum-photo-app/static/js/main.8132334e.js",
+    "index.html": "/DQuoc31/picsum-photo-app/index.html",
+    "main.85042e1d.css.map": "/DQuoc31/picsum-photo-app/static/css/main.85042e1d.css.map",
+    "main.8132334e.js.map": "/DQuoc31/picsum-photo-app/static/js/main.8132334e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85042e1d.css",
+    "static/js/main.8132334e.js"
+  ]
+}
